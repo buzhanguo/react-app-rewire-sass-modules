@@ -1,16 +1,20 @@
 {
   "name": "react-app-rewire-sass-modules",
-  "version": "1.0.9",
+  "version": "1.1.5",
   "description": "",
+  "author": "buzhanguo <58214381@qq.com>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "peerDependencies": {
-    "react-app-rewired": "^1.2.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzhanguo/react-app-rewire-sass-modules.git"
   },
+  "bugs": {
+    "url": "https://github.com/buzhanguo/react-app-rewire-sass-modules/issues"
+  },
+  "homepage": "https://github.com/buzhanguo/react-app-rewire-sass-modules",
   "devDependencies": {
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6"
