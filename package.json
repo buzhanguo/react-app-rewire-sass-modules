@@ -4,9 +4,6 @@
   "description": "",
   "author": "buzhanguo <58214381@qq.com>",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/buzhanguo/react-app-rewire-sass-modules.git"
