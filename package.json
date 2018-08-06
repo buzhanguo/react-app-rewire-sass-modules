@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-sass-modules",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "description": "",
   "author": "buzhanguo <58214381@qq.com>",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "url": "https://github.com/buzhanguo/react-app-rewire-sass-modules/issues"
   },
   "homepage": "https://github.com/buzhanguo/react-app-rewire-sass-modules",
-  "devDependencies": {
+  "dependencies": {
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6"
   }

@@ -2,7 +2,7 @@
 # Install
 
 ```base
-$ npm install react-app-rewire-sass-modules sass-loader node-sass --save-dev
+$ npm install react-app-rewire-sass-modules --save-dev
 ```
 
 # Add it to your project
